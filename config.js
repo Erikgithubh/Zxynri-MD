@@ -5,31 +5,31 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
-global.mods = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
-global.prems = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
+global.owner = ['62881025400447'] //ganti pakai nomormu biar bot berfungsi
+global.mods = ['62881025400447'] //ganti pakai nomormu biar bot berfungsi
+global.prems = ['62881025400447'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ DaniBotzOffcོ_1ঔৣ꧂'
-global.numberowner = '6281251549899' //ganti pakai nomor mu
+global.nameowner = 'RikZ'
+global.numberowner = '62881025400447' //ganti pakai nomor mu
 global.instagram = 'Gk Ad Bwang:v' //ganti pakai Instagram mu
-global.github = 'https://github.com/Bot-Mdnew' //ganti aja pakai githubmu
+global.github = 'Gk Ad Bwang:v' //ganti aja pakai githubmu
 global.tt = '"_"' //ganti aja pakai tiktok mu
-global.sc = 'https://youtu.be/lMcwJMp_0rM' //jngn ganti hargai creator
-global.ss = 'https://youtu.be/3m7tRD4RklM' //jngn ganti hargai creator
-global.sss = 'https://youtu.be/PzUH1ApMCig' //jngn ganti hargai creator
-global.yt = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
-global.dana = '081251549899' //ganti pakai nomor dana mu
-global.pulsa = '081352848936' //ganti pakai nomor pulsa mu
-global.gopay = '081352848936' //ganti pakai nomor Gopay mu
+global.sc = '-' //jngn ganti hargai creator
+global.ss = '-' //jngn ganti hargai creator
+global.sss = '-' //jngn ganti hargai creator
+global.yt = '-'
+global.dana = '085920792778' //ganti pakai nomor dana mu
+global.pulsa = '085920792778' //ganti pakai nomor pulsa mu
+global.gopay = '085920792778' //ganti pakai nomor Gopay mu
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Danibotz-Ofc⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
-global.gc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd' //ganti pakai grup mu
-global.web = 'https://youtube.com/channel/UCoHJ9D9Sy3TLp0mUHBrj1cg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = '❋ཻུ۪۪⸙RikZ BOT⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
+global.gc = https://chat.whatsapp.com/J3ZlwdoEfuJCgl315j8ETM' //ganti pakai grup mu
+global.web = 'https://github/Erikgithubh' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = '"_"' //ganti pakai Instagram mu
 global.saweria = '"_"' //bebas ganti aja pakai apa
-global.nomer = 'https://wa.me/6281251549899' //ganti jadi nomor mu
+global.nomer = 'https://wa.me/62881025400447' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
